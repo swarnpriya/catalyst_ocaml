@@ -11,7 +11,7 @@
  (* Anchor ^ which matches any integer starting with the argument provided 
      ^The returns the string that starts with The *)
   let rec anchor_start e l = match l with 
-      | [] -> []
+      | [] -> raise TestExp
       | x :: xs -> 
       			let chr  = check_hd e l in 
 
