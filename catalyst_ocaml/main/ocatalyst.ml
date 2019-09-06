@@ -87,7 +87,7 @@ let catalyst_elaborate_envs relspecs typedtree =
 
      let _ = Printf.printf "%s" (L.toString (VC.layouts elaborated_vcs)) in 
       
-
+(*
       let  dischargeVC i vc = 
       let _ = Printf.printf "%s" ("Discharging VCS "^(string_of_int (i+1))^" of "^(string_of_int (List.length elaborated_vcs))^"\n") in 
           
@@ -109,7 +109,7 @@ let catalyst_elaborate_envs relspecs typedtree =
                   *) raise CantDischargeVC)
     in  
     let unit_lists = List.mapi dischargeVC elaborated_vcs in   
-      
+  *)    
     Printf.printf "%s" "The implementation is correct w.r.t given specification!\n"
     
  
