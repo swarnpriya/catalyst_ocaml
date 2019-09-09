@@ -1,0 +1,9110 @@
+V "4.7.1.0 May 23 2018"
+R
+C 3
+= 0x7ffaa75007d8
+R
+P 0x7ffaa75007d8
+S "model"
+S "true"
+C 5
+R
+P 0x7ffaa75007d8
+S "proof"
+S "true"
+C 5
+R
+P 0x7ffaa75007d8
+C 7
+= 0x7ffaa8015a08
+R
+P 0x7ffaa75007d8
+C 4
+R
+P 0x7ffaa8015a08
+U 2
+C 328
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 408
+= 0x7ffaa750aff8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+C 416
+R
+P 0x7ffaa8015a08
+C 54
+= 0x7ffaa801f078
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f078
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+C 33
+= 0x7ffaa801f0d8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 9
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+C 3
+= 0x7ffaa7600048
+R
+P 0x7ffaa7600048
+S "model"
+S "true"
+C 5
+R
+P 0x7ffaa7600048
+S "proof"
+S "true"
+C 5
+R
+P 0x7ffaa7600048
+C 7
+= 0x7ffaa8800008
+R
+P 0x7ffaa7600048
+C 4
+R
+P 0x7ffaa8800008
+U 2
+C 328
+R
+P 0x7ffaa8800008
+C 339
+R
+P 0x7ffaa8800008
+C 408
+= 0x7ffaa7607618
+R
+P 0x7ffaa8800008
+C 339
+R
+P 0x7ffaa8800008
+P 0x7ffaa7607618
+C 416
+R
+P 0x7ffaa8800008
+P 0x7ffaa7607618
+C 420
+R
+P 0x7ffaa8800008
+C 339
+R
+P 0x7ffaa8015a08
+C 33
+= 0x7ffaa801f0d8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 9
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+C 33
+= 0x7ffaa801f0d8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 9
+R
+P 0x7ffaa8015a08
+S "T0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |T0|
+C 31
+= 0x7ffaa801f9f8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 9
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "Rnext_next_hd"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |Rnext_next_hd|
+U 2
+P 0x7ffaa801f9f8
+P 0x7ffaa801f0d8
+p 2
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8023a98
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023a98
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023a98
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun Rnext_next_hd \040T0 Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "Rnext_hd"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |Rnext_hd|
+U 2
+P 0x7ffaa801f9f8
+P 0x7ffaa801f0d8
+p 2
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8023ad8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023ad8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023ad8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun Rnext_hd \040T0 Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "Robs"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |Robs|
+U 3
+P 0x7ffaa801f9f8
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 3
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa802b8a8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa802b8a8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa802b8a8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun Robs \040T0 Int Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "Rob"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |Rob|
+U 3
+P 0x7ffaa801f9f8
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 3
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa802b8f0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa802b8f0
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa802b8f0
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun Rob \040T0 Int Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "Rmem"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |Rmem|
+U 2
+P 0x7ffaa801f9f8
+P 0x7ffaa801f0d8
+p 2
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8023b18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023b18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023b18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun Rmem \040T0 Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "Rhd"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |Rhd|
+U 2
+P 0x7ffaa801f9f8
+P 0x7ffaa801f0d8
+p 2
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8023b58
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023b58
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023b58
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun Rhd \040T0 Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "_d1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |_d1|
+P 0x7ffaa801f018
+C 51
+= 0x7ffaa801fa18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fa18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fa18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const _d1 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "_d0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |_d0|
+P 0x7ffaa801f018
+C 51
+= 0x7ffaa801fa38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fa38
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fa38
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const _d0 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "true"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |true|
+P 0x7ffaa801f018
+C 51
+= 0x7ffaa801fa58
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fa58
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fa58
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const true Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "false"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |false|
+P 0x7ffaa801f018
+C 51
+= 0x7ffaa801fa78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fa78
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fa78
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const false Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "v_0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |v_0|
+P 0x7ffaa801f018
+C 51
+= 0x7ffaa801fa98
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fa98
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fa98
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const v_0 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "v_1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |v_1|
+P 0x7ffaa801f018
+C 51
+= 0x7ffaa801fab8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fab8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fab8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const v_1 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "nil"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |nil|
+P 0x7ffaa801f9f8
+C 51
+= 0x7ffaa801fad8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fad8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fad8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const nil T0\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "TestExp"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |TestExp|
+P 0x7ffaa801f9f8
+C 51
+= 0x7ffaa801faf8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801faf8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801faf8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const TestExp T0\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "\091\093"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |\091\093|
+P 0x7ffaa801f9f8
+C 51
+= 0x7ffaa801fb18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const \124\091\093\124 T0\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "x1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |x1|
+P 0x7ffaa801f018
+C 51
+= 0x7ffaa801fb38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb38
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb38
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const x1 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "y1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |y1|
+P 0x7ffaa801f018
+C 51
+= 0x7ffaa801fb58
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb58
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb58
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const y1 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "v_18"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |v_18|
+P 0x7ffaa801f018
+C 51
+= 0x7ffaa801fb78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb78
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb78
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const v_18 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "T1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |T1|
+C 31
+= 0x7ffaa801fb98
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb98
+C 9
+R
+P 0x7ffaa8015a08
+S "v_10"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |v_10|
+P 0x7ffaa801fb98
+C 51
+= 0x7ffaa801fbb8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fbb8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb98
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fbb8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const v_10 T1\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "l"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |l|
+P 0x7ffaa801f9f8
+C 51
+= 0x7ffaa801fbd8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fbd8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fbd8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const l T0\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "v_15"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |v_15|
+P 0x7ffaa801fb98
+C 51
+= 0x7ffaa801fbf8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fbf8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb98
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fbf8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const v_15 T1\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+S "b"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |b|
+P 0x7ffaa801f018
+C 51
+= 0x7ffaa801fc18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-const b Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set0|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8025b20
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025b20
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025b20
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set0 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025b20
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021668
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021668
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021668
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8025b58
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025b58
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021668
+p 1
+C 190
+= 0x7ffaa8021698
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021698
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8025b58
+C 195
+= 0x7ffaa803ce18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803ce18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803ce18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set0 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803ce18
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023a98
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8025c38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025c38
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025b20
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021668
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021668
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025c38
+P 0x7ffaa8021668
+C 60
+= 0x7ffaa8025c70
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025c70
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025c38
+p 1
+C 190
+= 0x7ffaa8021758
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021758
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021668
+p 1
+C 190
+= 0x7ffaa8021698
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021698
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8025c70
+C 195
+= 0x7ffaa803ce70
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803ce70
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803ce70
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rnext_next_hd \124\091\093\124 bv0\041 \040set0 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803ce70
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set1|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8025ca8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025ca8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025ca8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set1 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025ca8
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021788
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021788
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021788
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8025ce0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025ce0
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021788
+p 1
+C 190
+= 0x7ffaa80217b8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80217b8
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8025ce0
+C 195
+= 0x7ffaa803cec8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803cec8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803cec8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set1 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803cec8
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023ad8
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8025d18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025ca8
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021788
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021788
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d18
+P 0x7ffaa8021788
+C 60
+= 0x7ffaa8025d50
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d50
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025d18
+p 1
+C 190
+= 0x7ffaa80217e8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80217e8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021788
+p 1
+C 190
+= 0x7ffaa80217b8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80217b8
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8025d50
+C 195
+= 0x7ffaa803cf20
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803cf20
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803cf20
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rnext_hd \124\091\093\124 bv0\041 \040set1 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803cf20
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set2"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set2|
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8023bd8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023bd8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023bd8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set2 \040Int Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023bd8
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa8025d88
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d88
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d88
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8025dc0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025dc0
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025d88
+p 1
+C 190
+= 0x7ffaa8021818
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021818
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa8025dc0
+C 195
+= 0x7ffaa807b818
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807b818
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807b818
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040set2 bv0 bv1\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807b818
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa802b8a8
+U 3
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 3
+C 50
+= 0x7ffaa8023c18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023bd8
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa8025d88
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d88
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c18
+P 0x7ffaa8025d88
+C 60
+= 0x7ffaa8025df8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025df8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8023c18
+p 1
+C 190
+= 0x7ffaa8021848
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021848
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025d88
+p 1
+C 190
+= 0x7ffaa8021818
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021818
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa8025df8
+C 195
+= 0x7ffaa807b880
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807b880
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807b880
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040Robs \124\091\093\124 bv0 bv1\041 \040set2 bv0 bv1\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807b880
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set3"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set3|
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8023c58
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c58
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c58
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set3 \040Int Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c58
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa8025e30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025e30
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025e30
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8025e68
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025e68
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025e30
+p 1
+C 190
+= 0x7ffaa8021878
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021878
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa8025e68
+C 195
+= 0x7ffaa807b8e8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807b8e8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807b8e8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040set3 bv0 bv1\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807b8e8
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa802b8f0
+U 3
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 3
+C 50
+= 0x7ffaa8023c98
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c98
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c58
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa8025e30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025e30
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c98
+P 0x7ffaa8025e30
+C 60
+= 0x7ffaa8025ea0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025ea0
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8023c98
+p 1
+C 190
+= 0x7ffaa80218a8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80218a8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025e30
+p 1
+C 190
+= 0x7ffaa8021878
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021878
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa8025ea0
+C 195
+= 0x7ffaa807b950
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807b950
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807b950
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040Rob \124\091\093\124 bv0 bv1\041 \040set3 bv0 bv1\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807b950
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set4"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set4|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8025ed8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025ed8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025ed8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set4 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025ed8
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa80218d8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80218d8
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80218d8
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8025f10
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025f10
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa80218d8
+p 1
+C 190
+= 0x7ffaa8021908
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021908
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8025f10
+C 195
+= 0x7ffaa803cf78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803cf78
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803cf78
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set4 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803cf78
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023b18
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8025f48
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025f48
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025ed8
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa80218d8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80218d8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025f48
+P 0x7ffaa80218d8
+C 60
+= 0x7ffaa8025f80
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025f80
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025f48
+p 1
+C 190
+= 0x7ffaa8021938
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021938
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa80218d8
+p 1
+C 190
+= 0x7ffaa8021908
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021908
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8025f80
+C 195
+= 0x7ffaa803cfd0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803cfd0
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803cfd0
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rmem \124\091\093\124 bv0\041 \040set4 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803cfd0
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set5"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set5|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8025fb8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025fb8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025fb8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set5 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025fb8
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021968
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021968
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021968
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8025ff0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025ff0
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021968
+p 1
+C 190
+= 0x7ffaa8021998
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021998
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8025ff0
+C 195
+= 0x7ffaa803d028
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d028
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d028
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set5 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d028
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023b58
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8026028
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026028
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025fb8
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021968
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021968
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026028
+P 0x7ffaa8021968
+C 60
+= 0x7ffaa8026060
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026060
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8026028
+p 1
+C 190
+= 0x7ffaa80219c8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80219c8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021968
+p 1
+C 190
+= 0x7ffaa8021998
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021998
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8026060
+C 195
+= 0x7ffaa803d080
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d080
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d080
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rhd \124\091\093\124 bv0\041 \040set5 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d080
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set6"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set6|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8026098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026098
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set6 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026098
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa80219f8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80219f8
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80219f8
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa80260d0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80260d0
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa80219f8
+p 1
+C 190
+= 0x7ffaa8021a28
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021a28
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa80260d0
+C 195
+= 0x7ffaa803d0d8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d0d8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set6 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d0d8
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023a98
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8025c38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025c38
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026098
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa80219f8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80219f8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025c38
+P 0x7ffaa80219f8
+C 60
+= 0x7ffaa8026108
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026108
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025c38
+p 1
+C 190
+= 0x7ffaa8021758
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021758
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa80219f8
+p 1
+C 190
+= 0x7ffaa8021a28
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021a28
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8026108
+C 195
+= 0x7ffaa803d130
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d130
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d130
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rnext_next_hd \124\091\093\124 bv0\041 \040set6 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d130
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set7"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set7|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8026140
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026140
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026140
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set7 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026140
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021a58
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021a58
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021a58
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8026178
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026178
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021a58
+p 1
+C 190
+= 0x7ffaa8021a88
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021a88
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8026178
+C 195
+= 0x7ffaa803d188
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d188
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d188
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set7 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d188
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023ad8
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8025d18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026140
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021a58
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021a58
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d18
+P 0x7ffaa8021a58
+C 60
+= 0x7ffaa80261b0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80261b0
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025d18
+p 1
+C 190
+= 0x7ffaa80217e8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80217e8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021a58
+p 1
+C 190
+= 0x7ffaa8021a88
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021a88
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa80261b0
+C 195
+= 0x7ffaa803d1e0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d1e0
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d1e0
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rnext_hd \124\091\093\124 bv0\041 \040set7 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d1e0
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set8"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set8|
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8023cd8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023cd8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023cd8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set8 \040Int Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023cd8
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa80261e8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80261e8
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80261e8
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8026220
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026220
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa80261e8
+p 1
+C 190
+= 0x7ffaa8021ab8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021ab8
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa8026220
+C 195
+= 0x7ffaa807b9b8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807b9b8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807b9b8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040set8 bv0 bv1\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807b9b8
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa802b8a8
+U 3
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 3
+C 50
+= 0x7ffaa8023c18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023cd8
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa80261e8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80261e8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c18
+P 0x7ffaa80261e8
+C 60
+= 0x7ffaa8026258
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026258
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8023c18
+p 1
+C 190
+= 0x7ffaa8021848
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021848
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa80261e8
+p 1
+C 190
+= 0x7ffaa8021ab8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021ab8
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa8026258
+C 195
+= 0x7ffaa807ba20
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807ba20
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807ba20
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040Robs \124\091\093\124 bv0 bv1\041 \040set8 bv0 bv1\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807ba20
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set9"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set9|
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8023d18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023d18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023d18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set9 \040Int Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023d18
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa8026290
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026290
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026290
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa80262c8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80262c8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8026290
+p 1
+C 190
+= 0x7ffaa8021ae8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021ae8
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa80262c8
+C 195
+= 0x7ffaa807ba88
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807ba88
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807ba88
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040set9 bv0 bv1\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807ba88
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa802b8f0
+U 3
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 3
+C 50
+= 0x7ffaa8023c98
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c98
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023d18
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa8026290
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026290
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c98
+P 0x7ffaa8026290
+C 60
+= 0x7ffaa8026300
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026300
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8023c98
+p 1
+C 190
+= 0x7ffaa80218a8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80218a8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8026290
+p 1
+C 190
+= 0x7ffaa8021ae8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021ae8
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa8026300
+C 195
+= 0x7ffaa807baf0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807baf0
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807baf0
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040Rob \124\091\093\124 bv0 bv1\041 \040set9 bv0 bv1\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807baf0
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set10"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set10|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8026338
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026338
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026338
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set10 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026338
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021b18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021b18
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021b18
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8026370
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026370
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021b18
+p 1
+C 190
+= 0x7ffaa8021b48
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021b48
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8026370
+C 195
+= 0x7ffaa803d238
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d238
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d238
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set10 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d238
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023b18
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8025f48
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025f48
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026338
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021b18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021b18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025f48
+P 0x7ffaa8021b18
+C 60
+= 0x7ffaa80263a8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80263a8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025f48
+p 1
+C 190
+= 0x7ffaa8021938
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021938
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021b18
+p 1
+C 190
+= 0x7ffaa8021b48
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021b48
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa80263a8
+C 195
+= 0x7ffaa803d290
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d290
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d290
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rmem \124\091\093\124 bv0\041 \040set10 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d290
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set11"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set11|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa80263e0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80263e0
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80263e0
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set11 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80263e0
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021b78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021b78
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021b78
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8026418
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026418
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021b78
+p 1
+C 190
+= 0x7ffaa8021ba8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021ba8
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8026418
+C 195
+= 0x7ffaa803d2e8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d2e8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d2e8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set11 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d2e8
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023a98
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8025c38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025c38
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80263e0
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021b78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021b78
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025c38
+P 0x7ffaa8021b78
+C 60
+= 0x7ffaa8026450
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026450
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025c38
+p 1
+C 190
+= 0x7ffaa8021758
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021758
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021b78
+p 1
+C 190
+= 0x7ffaa8021ba8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021ba8
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8026450
+C 195
+= 0x7ffaa803d340
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d340
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d340
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rnext_next_hd \124\091\093\124 bv0\041 \040set11 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d340
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set12"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set12|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8026488
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026488
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026488
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set12 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026488
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021bd8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021bd8
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021bd8
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa80264c0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80264c0
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021bd8
+p 1
+C 190
+= 0x7ffaa8021c08
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021c08
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa80264c0
+C 195
+= 0x7ffaa803d398
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d398
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d398
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set12 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d398
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023ad8
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8025d18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026488
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021bd8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021bd8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d18
+P 0x7ffaa8021bd8
+C 60
+= 0x7ffaa80264f8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80264f8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025d18
+p 1
+C 190
+= 0x7ffaa80217e8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80217e8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021bd8
+p 1
+C 190
+= 0x7ffaa8021c08
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021c08
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa80264f8
+C 195
+= 0x7ffaa803d3f0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d3f0
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d3f0
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rnext_hd \124\091\093\124 bv0\041 \040set12 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d3f0
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set13"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set13|
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8023d58
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023d58
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023d58
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set13 \040Int Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023d58
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa8026530
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026530
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026530
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8026568
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026568
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8026530
+p 1
+C 190
+= 0x7ffaa8021c38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021c38
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa8026568
+C 195
+= 0x7ffaa807bb58
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807bb58
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807bb58
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040set13 bv0 bv1\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807bb58
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa802b8a8
+U 3
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 3
+C 50
+= 0x7ffaa8023c18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023d58
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa8026530
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026530
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c18
+P 0x7ffaa8026530
+C 60
+= 0x7ffaa80265a0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80265a0
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8023c18
+p 1
+C 190
+= 0x7ffaa8021848
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021848
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8026530
+p 1
+C 190
+= 0x7ffaa8021c38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021c38
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa80265a0
+C 195
+= 0x7ffaa807bbc0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807bbc0
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807bbc0
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040Robs \124\091\093\124 bv0 bv1\041 \040set13 bv0 bv1\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807bbc0
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set14"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set14|
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8023d98
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023d98
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023d98
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set14 \040Int Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023d98
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa80265d8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80265d8
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80265d8
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8026610
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026610
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa80265d8
+p 1
+C 190
+= 0x7ffaa8021c68
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021c68
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa8026610
+C 195
+= 0x7ffaa807bc28
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807bc28
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807bc28
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040set14 bv0 bv1\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807bc28
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa802b8f0
+U 3
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 3
+C 50
+= 0x7ffaa8023c98
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c98
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023d98
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa80265d8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80265d8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c98
+P 0x7ffaa80265d8
+C 60
+= 0x7ffaa8026648
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026648
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8023c98
+p 1
+C 190
+= 0x7ffaa80218a8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80218a8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa80265d8
+p 1
+C 190
+= 0x7ffaa8021c68
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021c68
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa8026648
+C 195
+= 0x7ffaa807bc90
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807bc90
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807bc90
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040Rob \124\091\093\124 bv0 bv1\041 \040set14 bv0 bv1\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807bc90
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set15"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set15|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8026680
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026680
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026680
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set15 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026680
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021c98
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021c98
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021c98
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa80266b8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80266b8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021c98
+p 1
+C 190
+= 0x7ffaa8021cc8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021cc8
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa80266b8
+C 195
+= 0x7ffaa803d448
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d448
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d448
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set15 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d448
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023a98
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8025c38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025c38
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026680
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021c98
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021c98
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025c38
+P 0x7ffaa8021c98
+C 60
+= 0x7ffaa80266f0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80266f0
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025c38
+p 1
+C 190
+= 0x7ffaa8021758
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021758
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021c98
+p 1
+C 190
+= 0x7ffaa8021cc8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021cc8
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa80266f0
+C 195
+= 0x7ffaa803d4a0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d4a0
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d4a0
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rnext_next_hd \124\091\093\124 bv0\041 \040set15 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d4a0
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set16"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set16|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8026728
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026728
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026728
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set16 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026728
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021cf8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021cf8
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021cf8
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8026760
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026760
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021cf8
+p 1
+C 190
+= 0x7ffaa8021d28
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021d28
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8026760
+C 195
+= 0x7ffaa803d4f8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d4f8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d4f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set16 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d4f8
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023ad8
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8025d18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026728
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021cf8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021cf8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d18
+P 0x7ffaa8021cf8
+C 60
+= 0x7ffaa8026798
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026798
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025d18
+p 1
+C 190
+= 0x7ffaa80217e8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80217e8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021cf8
+p 1
+C 190
+= 0x7ffaa8021d28
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021d28
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8026798
+C 195
+= 0x7ffaa803d550
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d550
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d550
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rnext_hd \124\091\093\124 bv0\041 \040set16 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d550
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set17"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set17|
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8023dd8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023dd8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023dd8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set17 \040Int Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023dd8
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa80267d0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80267d0
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80267d0
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8026808
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026808
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa80267d0
+p 1
+C 190
+= 0x7ffaa8021d58
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021d58
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa8026808
+C 195
+= 0x7ffaa807bcf8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807bcf8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807bcf8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040set17 bv0 bv1\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807bcf8
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fe78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fe78
+C 9
+R
+P 0x7ffaa8015a08
+S "bv1"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa802b8a8
+U 3
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 3
+C 50
+= 0x7ffaa8023c18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023dd8
+U 2
+P 0x7ffaa801fc38
+P 0x7ffaa801fe78
+p 2
+C 50
+= 0x7ffaa80267d0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80267d0
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023c18
+P 0x7ffaa80267d0
+C 60
+= 0x7ffaa8026840
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026840
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8023c18
+p 1
+C 190
+= 0x7ffaa8021848
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021848
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa80267d0
+p 1
+C 190
+= 0x7ffaa8021d58
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021d58
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 2
+P 0x7ffaa801f0d8
+P 0x7ffaa801f0d8
+p 2
+$ |bv1|
+$ |bv0|
+s 2
+P 0x7ffaa8026840
+C 195
+= 0x7ffaa807bd60
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807bd60
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa807bd60
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv1 Int\041 \040bv0 Int\041\041 \040\061 \040Robs \124\091\093\124 bv0 bv1\041 \040set17 bv0 bv1\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa807bd60
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set18"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set18|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8026878
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026878
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026878
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set18 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026878
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021d88
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021d88
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021d88
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa80268b0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80268b0
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021d88
+p 1
+C 190
+= 0x7ffaa8021db8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021db8
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa80268b0
+C 195
+= 0x7ffaa803d5a8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d5a8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d5a8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set18 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d5a8
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023a98
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8025c38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025c38
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026878
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021d88
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021d88
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025c38
+P 0x7ffaa8021d88
+C 60
+= 0x7ffaa80268e8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80268e8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025c38
+p 1
+C 190
+= 0x7ffaa8021758
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021758
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021d88
+p 1
+C 190
+= 0x7ffaa8021db8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021db8
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa80268e8
+C 195
+= 0x7ffaa803d600
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d600
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d600
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rnext_next_hd \124\091\093\124 bv0\041 \040set18 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d600
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set19"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set19|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa8026920
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026920
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026920
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set19 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026920
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021de8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021de8
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021de8
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8026958
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026958
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021de8
+p 1
+C 190
+= 0x7ffaa8021e18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021e18
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8026958
+C 195
+= 0x7ffaa803d658
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d658
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d658
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set19 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d658
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023ad8
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8025d18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d18
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026920
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021de8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021de8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025d18
+P 0x7ffaa8021de8
+C 60
+= 0x7ffaa8026990
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026990
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025d18
+p 1
+C 190
+= 0x7ffaa80217e8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80217e8
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021de8
+p 1
+C 190
+= 0x7ffaa8021e18
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021e18
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8026990
+C 195
+= 0x7ffaa803d6b0
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d6b0
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d6b0
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rnext_hd \124\091\093\124 bv0\041 \040set19 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d6b0
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fb18
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+C 32
+= 0x7ffaa801f018
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f018
+C 9
+R
+P 0x7ffaa8015a08
+S "set20"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+$ |set20|
+U 1
+P 0x7ffaa801f0d8
+p 1
+P 0x7ffaa801f018
+C 49
+= 0x7ffaa80269c8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80269c8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80269c8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040declare-fun set20 \040Int\041 Bool\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80269c8
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021e48
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021e48
+C 9
+R
+P 0x7ffaa8015a08
+C 55
+= 0x7ffaa801f098
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f098
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021e48
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8026a00
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026a00
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021e48
+p 1
+C 190
+= 0x7ffaa8021e78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021e78
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8026a00
+C 195
+= 0x7ffaa803d708
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d708
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d708
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040set20 bv0\041 false\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d708
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+U 0
+P 0x7ffaa801f0d8
+C 191
+= 0x7ffaa801fc38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fc38
+C 9
+R
+P 0x7ffaa8015a08
+S "bv0"
+C 30
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f9f8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8023a98
+U 2
+P 0x7ffaa801fb18
+P 0x7ffaa801fc38
+p 2
+C 50
+= 0x7ffaa8025c38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025c38
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801f0d8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa80269c8
+U 1
+P 0x7ffaa801fc38
+p 1
+C 50
+= 0x7ffaa8021e48
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021e48
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8025c38
+P 0x7ffaa8021e48
+C 60
+= 0x7ffaa8026a38
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026a38
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8025c38
+p 1
+C 190
+= 0x7ffaa8021758
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021758
+C 9
+R
+P 0x7ffaa8015a08
+U 1
+P 0x7ffaa8021e48
+p 1
+C 190
+= 0x7ffaa8021e78
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8021e78
+C 9
+R
+P 0x7ffaa8015a08
+I 1
+U 1
+N
+N
+U 0
+p 0
+U 0
+p 0
+U 1
+P 0x7ffaa801f0d8
+p 1
+$ |bv0|
+s 1
+P 0x7ffaa8026a38
+C 195
+= 0x7ffaa803d760
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d760
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa803d760
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040forall \040\040bv0 Int\041\041 \040\061 \040Rnext_next_hd \124\091\093\124 bv0\041 \040set20 bv0\041\041\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa803d760
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fa78
+P 0x7ffaa801f098
+C 56
+= 0x7ffaa8026a70
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026a70
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026a70
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040\061 false false\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa8026a70
+C 422
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa801fa58
+P 0x7ffaa801f078
+C 56
+= 0x7ffaa8026aa8
+R
+P 0x7ffaa8015a08
+C 339
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026aa8
+C 9
+R
+P 0x7ffaa8015a08
+P 0x7ffaa8026aa8
+C 329
+R
+P 0x7ffaa8015a08
+C 339
+M "\040assert \040\061 true true\041\041"
+M "\010"
+R
+P 0x7ffaa8015a08
+P 0x7ffaa750aff8
+P 0x7ffaa8026aa8
+C 422
+R
+P 0x7ffaa8015a08
+C 339

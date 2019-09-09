@@ -11,5 +11,5 @@ assume eq : x1 -> y1 -> {veq | [veq=true] <=> {(x1)} = {(y1)}};
 
 mem_check : e -> l -> {b | [b=true] <=> {(e)} C= Rmem(l)};
 
-anchor_exact : e -> l1 -> {l | Rmem(l) = Rmem(l1) /\
-                               {(e)} C= Rmem(l)};
+anchor_exact : e1 -> l1 -> {l | Rmem(l) = Rmem(l1) /\
+                               {(e1)} C= Rmem(l)};

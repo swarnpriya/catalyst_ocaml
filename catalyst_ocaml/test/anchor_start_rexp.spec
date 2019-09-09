@@ -10,5 +10,5 @@ assume eq : x1 -> y1 -> {veq | [veq=true] <=> {(x1)} = {(y1)} };
 
 check_hd : e -> l -> {b | [b=true] <=> Rhd(l) = {(e)}};
 
-anchor_start : e -> l1 -> {l | Rmem(l) = Rmem(l1) /\
-                               (Rhd(l)) = {(e)}};
+anchor_start : e1 -> l1 -> {l | Rmem(l) = Rmem(l1) /\
+                               (Rhd(l)) = {(e1)}};

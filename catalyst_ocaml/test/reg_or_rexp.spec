@@ -18,9 +18,9 @@ or_fun : x1 -> y1 -> {veq | [veq=false] <=> (({(x1)}={(false)}) /\ ({(y1)}={(fal
 
 check_hd : e -> l -> {b | [b=true] <=> Rhd(l) = {(e)}};
 
-get_next_element : e -> e' -> l -> {b | [b=true] <=> ((Rhd(l) = {(e)}) /\ (Rnext_hd(l) = {(e')}))};
+get_next_element : e1 -> e1' -> l1 -> {b1 | [b1=true] <=> ((Rhd(l1) = {(e1)}) /\ (Rnext_hd(l1) = {(e1')}))};
 
 
-reg_or : e -> e' -> e'' -> l1 -> {l | (Rmem(l) = Rmem(l1)) /\
-                                      (Rhd(l) = {(e)}) /\
-                                      ((Rnext_hd(l) = {(e')} \/ Rnext_hd(l) = {(e'')}))};
+reg_or : e2 -> e2' -> e2'' -> l2 -> {l | (Rmem(l) = Rmem(l2)) /\
+                                      (Rhd(l) = {(e2)}) /\
+                                      ((Rnext_hd(l) = {(e2')} \/ Rnext_hd(l) = {(e2'')}))};

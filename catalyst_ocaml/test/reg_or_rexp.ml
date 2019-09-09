@@ -26,22 +26,22 @@
                  if y then true else false
 
 
- let rec get_next_element e e' l = 
-  match l with 
+ let rec get_next_element e1 e1' l1 = 
+  match l1 with 
     | [] -> false
-    | x :: xs -> let y = (eq x e) in 
-                 let z = (check_hd e' xs) in 
+    | x :: xs -> let y = (eq x e1) in 
+                 let z = (check_hd e1' xs) in 
                  let r = and_fun y z in 
                  if r
                  then true 
-                 else let rs = (get_next_element e e' xs) in rs
+                 else let rs = (get_next_element e1 e1' xs) in rs
 
 
 (* or returns any integer that has a digit (a) followed by digit (c or d) *)
-let rec reg_or e e' e'' l = 
-	          let y = (get_next_element e e' l) in 
-	          let z = (get_next_element e e'' l) in 
+let rec reg_or e2 e2' e2'' l2 = 
+	          let y = (get_next_element e2 e2' l2) in 
+	          let z = (get_next_element e2 e2'' l2) in 
 	          let r = (or_fun y z) in 
 	          if r
-              then l
+              then l2
               else raise TestExp

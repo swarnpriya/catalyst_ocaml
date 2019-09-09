@@ -11,7 +11,7 @@
                   else let rs = mem_check e xs in rs 
 
 (* anchor_exact returns any integer that has digit provides as argument in it *)
-let rec anchor_exact e l = let r = mem_check e l in 
+let rec anchor_exact e1 l1 = let r = mem_check e1 l1 in 
                             if r 
-                            then l 
+                            then l1 
                             else raise TestExp

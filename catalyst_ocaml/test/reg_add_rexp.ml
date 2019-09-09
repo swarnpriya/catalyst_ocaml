@@ -17,18 +17,18 @@
                  if y then true else false
 
 
- let rec get_next_element e e' l = 
-  match l with 
+ let rec get_next_element e1 e1' l1 = 
+  match l1 with 
     | [] -> false
-    | x :: xs -> let y = (eq x e) in 
-                 let z = (check_hd e' xs) in 
+    | x :: xs -> let y = (eq x e1) in 
+                 let z = (check_hd e1' xs) in 
                  let r = (and_fun y z) in 
                  if r
                  then true 
-                 else let rs = (get_next_element e e' xs) in rs
+                 else let rs = (get_next_element e1 e1' xs) in rs
 
  (* add returns the integer that has a digit (a) followed by one or more digit (b) *)
- let rec reg_add e e' l = let r = (get_next_element e e' l) in 
+ let rec reg_add e2 e2' l2 = let r = (get_next_element e2 e2' l2) in 
                if r
-               then l
+               then l2
                else raise TestExp

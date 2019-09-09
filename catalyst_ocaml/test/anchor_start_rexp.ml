@@ -10,11 +10,11 @@
 
  (* Anchor ^ which matches any integer starting with the argument provided 
      ^The returns the string that starts with The *)
-  let rec anchor_start e l = match l with 
+  let rec anchor_start e1 l1 = match l1 with 
       | [] -> raise TestExp
       | x :: xs -> 
-      			let chr  = check_hd e l in 
+      			let chr  = check_hd e1 l1 in 
 
       			if (chr) 
-                   then l
+                   then l1
                    else raise TestExp
