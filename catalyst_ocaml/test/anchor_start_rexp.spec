@@ -6,7 +6,7 @@ relation Rob (cons(x,xs)) = {(x)} X Rmem(xs) | nil = {()};
 relation Robs = Rob*;
 
 assume raise : ex -> {vex | true};
-assume eq : x1 -> y1 -> {veq | [veq=true] <=> {(x1)} = {(y1)} };
+assume eq : x1 -> y1 -> {veq | [veq=true] <=> {(x1)} = {(y1)}};
 
 check_hd : e -> l -> {b | [b=true] <=> Rhd(l) = {(e)}};
 

@@ -15,3 +15,9 @@ let rec anchor_exact e1 l1 = let r = mem_check e1 l1 in
                             if r 
                             then l1 
                             else raise TestExp
+(*Incorrect implementation*)
+(* let rec anchor_exact e1 l1 = let r = mem_check e1 l1 in 
+                            if r 
+                            then [] (*returning an empty list*) 
+                            else raise TestExp
+ *)
