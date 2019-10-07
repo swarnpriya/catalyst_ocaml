@@ -37,18 +37,20 @@ end
 
 example : ∀ a b c : ℕ, a = b → a = c → c = b :=
 begin 
- intros,
- transitivity a,
- symmetry, 
- assumption,
- assumption
+intros,
+transitivity a,
+symmetry, 
+assumption,
+assumption
 end 
 
-example : ∃ a : ℕ, 5 = a := 
-begin
- apply exists.intro,
+example : ∃ a : ℕ, a = a := 
+begin 
+ fapply exists.intro,
+ exact 0,
  reflexivity
 end 
+
 
 
 
