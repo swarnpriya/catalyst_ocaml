@@ -59,10 +59,12 @@ relation Rfstpairobs = Rfstpairob*;
 
 relation Rsndpairobs = Rsndpairobs*;
 
+relation Rfirstobs (Pair(p, q)) = Robs(p);
 
-relation dup : l1 -> {l | (Rmem(l1) = Rplmem(l)) /\ 
-                                (Rplen(l) = Rlen(l1)) /\ 
-                                (Rfstonly(l) = Rmem(l1)) /\
-                                (Rsndonly(l) = Rmem(l1)) /\
-                                (Rfstpairobs(l) = Robs(l1)) /\
-                                (Rsndpairobs(l) = Robs(l1))}
+relation Rsecondobs (Pair9p, q) = Robs(q);
+
+
+relation uzip : l1 -> {l | Rfstonly (l1) = Rfst(l) /\
+                           Rsndonly (l1) = Rsnd(l) /\
+                           Rfstpairobs(l1) = Rfirstobs(l) /\
+                           Rsndpairobs(l1) - Rsecondobs(l)}
