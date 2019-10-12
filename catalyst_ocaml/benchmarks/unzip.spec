@@ -61,10 +61,10 @@ relation Rsndpairobs = Rsndpairobs*;
 
 relation Rfirstobs (Pair(p, q)) = Robs(p);
 
-relation Rsecondobs (Pair9p, q) = Robs(q);
+relation Rsecondobs (Pair(p, q)) = Robs(q);
 
 
 relation uzip : l1 -> {l | Rfstonly (l1) = Rfst(l) /\
                            Rsndonly (l1) = Rsnd(l) /\
                            Rfstpairobs(l1) = Rfirstobs(l) /\
-                           Rsndpairobs(l1) - Rsecondobs(l)}
+                           Rsndpairobs(l1) = Rsecondobs(l)}
