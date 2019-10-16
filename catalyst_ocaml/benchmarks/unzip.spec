@@ -48,23 +48,23 @@ relation Rsndonly (E) = {()}
 
 relation Rfstpairob (E) = {()}
                  | (L p) = {()}
-                 | (LCons (p, pl)) = {(Rfst (p))} X Rfstonly(pl);
+                 | (LCons (p, pl)) = Rfst(p) X Rfstonly(pl);
 
 
 relation Rsndpairob (E) = {()}
                  | (L p) = {()}
-                 | (LCons (p, pl)) = {(Rsnd (p))} X Rsndonly(pl);
+                 | (LCons (p, pl)) = Rsnd (p) X Rsndonly(pl);
 
 relation Rfstpairobs = Rfstpairob*;
 
-relation Rsndpairobs = Rsndpairobs*;
+relation Rsndpairobs = Rsndpairob*;
 
 relation Rfirstobs (Pair(p, q)) = Robs(p);
 
 relation Rsecondobs (Pair(p, q)) = Robs(q);
 
 
-relation uzip : l1 -> {l | Rfstonly (l1) = Rfst(l) /\
+uzip : l1 -> {l | Rfstonly (l1) = Rfst(l) /\
                            Rsndonly (l1) = Rsnd(l) /\
                            Rfstpairobs(l1) = Rfirstobs(l) /\
-                           Rsndpairobs(l1) = Rsecondobs(l)}
+                           Rsndpairobs(l1) = Rsecondobs(l)};

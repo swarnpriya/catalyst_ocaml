@@ -48,22 +48,22 @@ relation Rsndonly (E) = {()}
 
 relation Rfstpairob (E) = {()}
                  | (L p) = {()}
-                 | (LCons (p, pl)) = {(Rfst (p))} X Rfstonly(pl);
+                 | (LCons (p, pl)) = Rfst(p) X Rfstonly(pl);
 
 
 relation Rsndpairob (E) = {()}
                  | (L p) = {()}
-                 | (LCons (p, pl)) = {(Rsnd (p))} X Rsndonly(pl);
+                 | (LCons (p, pl)) = Rsnd(p) X Rsndonly(pl);
 
 relation Rfstpairobs = Rfstpairob*;
 
-relation Rsndpairobs = Rsndpairobs*;
+relation Rsndpairobs = Rsndpairob*;
 
-relation zip : l1 -> l2 -> {l | (Rmem(l1) C= Rplmem(l)) /\ 
+zip : l1 -> l2 -> {l | (Rmem(l1) C= Rplmem(l)) /\ 
                                 (Rmem(l2) C= Rplmem(l)) /\ 
                                 (Rplen(l) = Rlen(l1)) /\ 
                                 (Rplen(l) = Rlen(l2)) /\
                                 (Rfstonly(l) = Rmem(l1)) /\
                                 (Rsndonly(l) = Rmem(l2)) /\
                                 (Rfstpairobs(l) = Robs(l1)) /\
-                                (Rsndpairobs(l) = Robs(l2))}
+                                (Rsndpairobs(l) = Robs(l2))};
