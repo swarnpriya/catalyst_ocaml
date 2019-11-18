@@ -50,7 +50,7 @@ let rec delete_by_field j f = match j with
 
 (*let print_int_pair (Pair (p, q)) = print_string "(" ; print_int p; print_string ","; print_int q; print_string ")"*)
 
-let rec print_list l = match l with 
+(* let rec print_list l = match l with 
    | [] -> ()
    | x :: xl -> print_int x ; print_string ";" ; print_list l
 
@@ -65,5 +65,5 @@ let print_string_int_pair (Pair (p, q)) = print_string "("; print_string p; prin
 
 let rec print_pair_list l = match l with 
    | E -> ()
-   | LCons (e,l) -> print_string_int_pair e ; print_string " " ; print_pair_list l
+   | LCons (e,l) -> print_string_int_pair e ; print_string " " ; print_pair_list l *)
 

@@ -57,13 +57,13 @@ json_parse : j -> {j' | Rplem(j') = Rplem (j) /\
                         Rfstonly(j') = Rfstonly (j) /\
                         Rsndonly(j') = Rsndonly (j)};
 
-access_by_field : j -> f -> {v | {v} C= Rsndonly(j) /\ 
-                                 {f} C= Rfstonly(j) /\
+access_by_field : j -> f -> {v | {(v)} C= Rsndonly(j) /\ 
+                                 {(f)} C= Rfstonly(j) /\
                                  {(f,v)} C= Rpairs(j)};
 
-modify_by_field : j -> f -> v -> {j' | {f} C= Rfstonly(j) /\ 
-                                       {f} C= Rfstonly(j') /\ 
+modify_by_field : j -> f -> v -> {j' | {(f)} C= Rfstonly(j) /\ 
+                                       {(f)} C= Rfstonly(j') /\ 
                                        {(f,v)} C= Rpairs(j')};
 
-delete_by_field : j -> f -> {j' | {f} C= Rfstonly(j) /\ 
-                                  not ({f} C= Rfstonly(j'))};
+delete_by_field : j -> f -> {j' | {(f)} C= Rfstonly(j) /\ 
+                                  not ({(f)} C= Rfstonly(j'))};
