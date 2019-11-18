@@ -52,15 +52,18 @@ relation Rfstpairobs = Rfstpairob*;
 
 relation Rsndpairobs = Rsndpairob*;
 
-get_second_element_pairlist : l3 -> {l | (Rmem(l)) C= Rplmem(l3) /\
-                                         (Rplen(l) = Rlen(l3)) /\ 
-                                         (Rsndpairobs(l) = Robs(l1))};
+json_parse : j -> {j' | Rplem(j') = Rplem (j) /\
+                        Rplen(j') = Rplen (j) /\
+                        Rfstonly(j') = Rfstonly (j) /\
+                        Rsndonly(j') = Rsndonly (j)};
 
-get_first_element_pairlist : l3 -> {l | (Rmem(l)) C= Rplmem(l3) /\
-                                        (Rfstonly(l3) = Rmem(l)) /\
-                                        (Rfstpairobs(l) = Robs(l1))};
+access_by_field : j -> f -> {v | {v} C= Rsndonly(j) /\ 
+                                 {f} C= Rfstonly(j) /\
+                                 {(f,v)} C= Rpairs(j)};
 
-unzip : l5 -> {l | Rfst(l) = Rfstonly(l5) /\
-                   Rsnd(l) = Rsndonly(l5) /\
-                   Robsfst(l) = Rfstpairobs(l5) /\
-                   Robssnd(l) = Rsndpairobs(l5)};
+modify_by_field : j -> f -> v -> {j' | {f} C= Rfstonly(j) /\ 
+                                       {f} C= Rfstonly(j') /\ 
+                                       {(f,v)} C= Rpairs(j')};
+
+delete_by_field : j -> f -> {j' | {f} C= Rfstonly(j) /\ 
+                                  not ({f} C= Rfstonly(j'))};

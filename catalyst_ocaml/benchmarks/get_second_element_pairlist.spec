@@ -14,25 +14,21 @@ relation Rfst (Pair(x, y)) = {(x)};
 
 relation Rsnd (Pair(x, y)) = {(y)};
 
-relation Robsfst (Pair (x, y)) = Robs(x);
-
-relation Robssnd (Pair (x, y)) = Robs(y);
-
 relation Rplmem (E) = {()}
                  | (LCons (p, pl)) = (Rfst (p) U Rsnd (p)) U (Rplmem (pl));
 
 relation Rpairs (E) = {()} 
-        | (LCons (p, pl)) = (Rfst (p) X Rsnd (p)) U (Rpairs (pl));
+				| (LCons (p, pl)) = (Rfst (p) X Rsnd (p)) U (Rpairs (pl));
 
 
 relation Rplen  (E) = (0)
-        | (LCons (p, pl)) = (1) + Rplen(pl);
+				| (LCons (p, pl)) = (1) + Rplen(pl);
 
 relation Rlen (cons(x, xs)) = ((1) + Rlen(xs)) | nil = (0);
 
 
 relation Rfla (E) = {()}
-        |  (LCons (p, pl)) = (Rfst (p) X Rsnd (p)) U (Rfst(p) X Rplmem (pl)) U (Rsnd(p) X Rplmem (pl)) U Rfla (pl);
+				|  (LCons (p, pl)) = (Rfst (p) X Rsnd (p)) U (Rfst(p) X Rplmem (pl)) U (Rsnd(p) X Rplmem (pl)) U Rfla (pl);
 
 relation Rfstonly (E) = {()}
                   | (LCons (p, pl)) = Rfst(p) U Rfstonly(pl);
@@ -54,13 +50,5 @@ relation Rsndpairobs = Rsndpairob*;
 
 get_second_element_pairlist : l3 -> {l | (Rmem(l)) C= Rplmem(l3) /\
                                          (Rplen(l) = Rlen(l3)) /\ 
-                                         (Rsndpairobs(l) = Robs(l1))};
-
-get_first_element_pairlist : l3 -> {l | (Rmem(l)) C= Rplmem(l3) /\
-                                        (Rfstonly(l3) = Rmem(l)) /\
-                                        (Rfstpairobs(l) = Robs(l1))};
-
-unzip : l5 -> {l | Rfst(l) = Rfstonly(l5) /\
-                   Rsnd(l) = Rsndonly(l5) /\
-                   Robsfst(l) = Rfstpairobs(l5) /\
-                   Robssnd(l) = Rsndpairobs(l5)};
+                                         (Rsndpairobs(l) = Robs(l1)) /\
+                                          (Rplen(l3) = Rlen(l))};

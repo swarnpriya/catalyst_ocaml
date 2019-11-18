@@ -14,20 +14,14 @@ relation Rfst (Pair(x, y)) = {(x)};
 
 relation Rsnd (Pair(x, y)) = {(y)};
 
-assume raise : ex -> {vex | true};
-assume eq : x1 -> y1 -> {veq | [veq=true] <=> {(x1)} = {(y1)} };
-
 relation Rplmem (E) = {()}
-                 | (L p) = (Rfst(p) U Rsnd(p))
                  | (LCons (p, pl)) = (Rfst (p) U Rsnd (p)) U (Rplmem (pl));
 
 relation Rpairs (E) = {()} 
-				| (L p) =  (Rfst (p) X Rsnd (p)) 
 				| (LCons (p, pl)) = (Rfst (p) X Rsnd (p)) U (Rpairs (pl));
 
 
 relation Rplen  (E) = (0)
-				| (L p) = (1)
 				| (LCons (p, pl)) = (1) + Rplen(pl);
 
 relation Rlen (cons(x, xs)) = ((1) + Rlen(xs)) | nil = (0);

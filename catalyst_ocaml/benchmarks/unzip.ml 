@@ -8,7 +8,6 @@ exception TestExp
 
 type pairList = 
              E 
-         | L of pair
          | LCons of pair * pairList
 
 let fst (Pair (x, y)) = x 
@@ -22,9 +21,20 @@ match l1 with
                 let temp2 = x1::temp1 in 
                         temp2 
 
-let rec unzip l1 = match l1 with 
+let rec get_first_element_pairlist l3 = match l3 with 
    | E -> Pair ([], [])
-   | L (x, y) -> Pair ([x], [y])
-   | LCons (Pair(x, y), ps) -> let r1 = unzip l1 in 
+   | LCons (Pair(x, y), ps) -> let r = get_first_element_pairlist ps in 
+                               x :: r
+
+(*let rec unzip l1 = match l1 with 
+   | E -> Pair ([], [])
+   | LCons (Pair(x, y), ps) -> 
+
+
+
+
+
+
+   let r1 = unzip ps in 
                                let r2 = concat [x] (fst r1) in 
-                               let r3 = concat [y] (snd r2)
+                               let r3 = concat [y] (snd r2)*)
