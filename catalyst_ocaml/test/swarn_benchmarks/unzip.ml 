@@ -1,0 +1,40 @@
+type pair = Pair of int * int 
+
+let eq x1 y1 = true
+   
+exception TestExp
+   let raise ex = 
+   		[]
+
+type pairList = 
+             E 
+         | LCons of pair * pairList
+
+let fst (Pair (x, y)) = x 
+
+let snd (Pair (x, y)) = y 
+
+let rec concat l1 l2 = 
+match l1 with
+    [] -> l2
+  | x1::xs1 ->  let temp1 = concat xs1 l2 in
+                let temp2 = x1::temp1 in 
+                        temp2 
+
+let rec get_first_element_pairlist l3 = match l3 with 
+   | E -> Pair ([], [])
+   | LCons (Pair(x, y), ps) -> let r = get_first_element_pairlist ps in 
+                               x :: r
+
+(*let rec unzip l1 = match l1 with 
+   | E -> Pair ([], [])
+   | LCons (Pair(x, y), ps) -> 
+
+
+
+
+
+
+   let r1 = unzip ps in 
+                               let r2 = concat [x] (fst r1) in 
+                               let r3 = concat [y] (snd r2)*)
