@@ -19,7 +19,8 @@ module PRE = ParamRelEnv
 
 (*comment this out to print  Printf messages*)
 module Printf = struct
-  let printf f s = ()
+  (* let printf f s = () *)
+  let printf = Printf.printf
   let originalPrint = Printf.printf 
 
 
@@ -315,6 +316,7 @@ let is_excecption_call fucntionexp =
       
     | _ -> raise (SpecVerifyExc "Unimpl, function call requires the function to be an identity, unimplemented general case ")  
   in 
+  (*TODO : This is a hack to check raise *)
   if Ident.name function_id = "raise" then true else false  
 
 
