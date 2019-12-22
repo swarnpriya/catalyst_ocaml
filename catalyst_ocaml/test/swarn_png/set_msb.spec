@@ -10,7 +10,7 @@ relation Robs = Rob*;
 
 relation Roas = Roa*;
 
-relation Rlast (nil) = {()}
-               | (cons (x, nil)) = {(x)}
-               | (cons (x, xs)) = Rlast (xs);
+relation Rlen (nil) = (0) | (cons(x,xs)) =  ((1) + Rlen(xs)); 
 
+set_msb : l -> {v | Rlen(v) = Rlen(l) /\
+                    Rhd(v) = {(1)}};
