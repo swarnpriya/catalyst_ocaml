@@ -52,13 +52,15 @@ let and_bit (Pair_int(x2, y2)) = match (x2, y2) with
      | (0, 0) -> 0
 
 
-let rec and_list (Pair(l1, l2)) = match l1 with 
-| [] -> []
-| x :: xs -> match l2 with 
-             | [] -> []
-             | y :: ys -> let r = and_bit (Pair_int(x, y)) in 
-                          let rs = and_list (Pair(xs, ys)) in 
-                          r :: rs 
+(** HARD TO WRITE SPEC **)
+let rec and_list l = 
+| (Pair(l1, l2)) -> match l1 with 
+                    | [] -> []
+                    | x :: xs -> match l2 with 
+                                 | [] -> []
+                                 | y :: ys -> let r = and_bit (Pair_int(x, y)) in 
+                                              let rs = and_list (Pair(xs, ys)) in 
+                                              r :: rs 
 
 let left_shift_followed_xor (Pair(l1,l2)) = let r = shift_left_one_bit l1 in 
                                             let result = xor (Pair(r, l2)) in 
@@ -66,6 +68,7 @@ let left_shift_followed_xor (Pair(l1,l2)) = let r = shift_left_one_bit l1 in
 
 (* This function checks if all the elements in l are zero or not *)
 (* Spec: Need to think about Spec *)
+(* Wrote very weak specification *)
 let rec check_if_zero_or_not l = match l with 
   | [] -> true
   | x :: xs -> if x = 0 then check_if_zero_or_not xs else false 
@@ -73,6 +76,7 @@ let rec check_if_zero_or_not l = match l with
 (* This function outputs the list containing only n zeros *)
 (* Spec: (1) length of ouput list is n 
          (2) All elements of the list is 0 *)
+(* wrote very weak spec *)
 let rec add_zeros n acc = 
 	  if n= 0 then acc else add_zeros (n-1) (0 :: acc) 
 
