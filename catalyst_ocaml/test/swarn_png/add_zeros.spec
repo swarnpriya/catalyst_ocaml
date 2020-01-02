@@ -2,9 +2,9 @@ relation Rhd (cons(x,xs)) = {(x)} | nil = {()};
 
 relation Rmem = Rhd*;
 
-relation Rlen (nil) = (0) | (cons(x,xs)) =  ((1) + Rlen(xs)); 
+assume eq : x1 -> y1 -> {veq | [veq=true] <=> (x1) = (y1)};
 
-add_zeros : n -> acc -> {v | [v = true] <=> {(0)} C Rmem(l)};
+add_zeros : n -> acc -> {l | {(0)} C Rmem(l)};
 
 
 

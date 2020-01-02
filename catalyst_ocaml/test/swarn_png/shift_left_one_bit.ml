@@ -10,6 +10,7 @@ match l1 with
                 let temp2 = x1::temp1 in 
                 temp2
 
+(* shift left by one bit *)
 let shift_left_one_bit l3 = match l3 with 
 | [] -> []
 | x :: xs -> let res = concat xs [0] in res 
