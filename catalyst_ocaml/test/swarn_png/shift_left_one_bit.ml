@@ -12,7 +12,7 @@ match l1 with
 
 let shift_left_one_bit l3 = match l3 with 
 | [] -> []
-| x :: xs -> concat xs (0::nil)
+| x :: xs -> let res = concat xs [0] in res 
 
 (*let rec print_list l = match l with 
    | [] -> ()
